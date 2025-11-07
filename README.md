@@ -16,7 +16,7 @@ This project develops and compares machine learning models to predict customer c
 
 ## Repository Structure
 ```
-├── Customer_Churn_Analysis.ipynb    # Main Jupyter notebook with complete analysis
+├── Customer_Churn_Analysis.ipynb    # Main notebook with complete analysis
 ├── cleaned_churn_dataset.csv        # Preprocessed dataset
 ├── churn_prediction_model.pkl       # Trained model (best performing)
 ├── scaler.pkl                       # Feature scaler
@@ -31,8 +31,8 @@ This project develops and compares machine learning models to predict customer c
 │   ├── correlation_heatmap.png
 │   ├── roc_curves.png
 │   ├── lift_chart.png
-│   └── gains_chart.png
-└── README.md                        # This file
+└── └── gains_chart.png
+                       
 ```
 
 ## Key Findings
